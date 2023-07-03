@@ -1,0 +1,60 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar {
+  background-color: #f6f6f6; 
+  padding: 10px; 
+  border-bottom:2px solid rgb(169, 167, 167);
+}
+.navbar-brand{
+    font-size: 35px;
+    font-weight: bold;
+}
+.collapse{
+    font-size: 20px;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    background-color: #bcbcbc;
+    color:white;
+    border-radius: 10px;
+}
+.jumbotron{
+    background-color: whitesmoke;
+    
+}
+.lead2{
+    float: right;
+    color:#404040;
+    cursor: pointer;
+}
+.lead2:hover{
+    text-decoration: none;
+}
+.card{
+    margin-left: 5%;
+    height: 50%;
+}
+.card img{
+    height: 400px;
+    width: 100%;
+    object-fit: cover;
+}
+.card .card-text{
+    display: none;
+
+}
+.card:hover .card-text{
+    display: block;
+}
+.list-unstyled i{
+    font-size: 25px;
+    color:white;
+
+}
+.list-unstyled a{
+    color: white;
+}
+.row{
+    border-bottom: 2px solid rgb(141, 141, 141);
+}
