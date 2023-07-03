@@ -33,7 +33,15 @@ Bootstrap script for responsive web pages
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
+
 ```
+
+```
+*{
+    font-family: 'Poppins', sans-serif;
+}
+```
+
 ### Snap Shots
 ![Documentpng](https://github.com/saimurahari/assignment2/assets/63709794/a7468478-83a6-444b-a3e6-29d8f46a2152)
 
